@@ -1,1 +1,4 @@
-个人学习、创作网站
+# beisenmiyi的创作、学习网站
+
+# 技术栈
+## 前端：Next.js + Tailwindcss
